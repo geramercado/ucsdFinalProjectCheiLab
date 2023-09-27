@@ -1,0 +1,113 @@
+1,1,1,7,processed,NCALM - good coverage,2022-00-00,mexico_chichen_Itza\mexico_chichen_tstanton_als_2022,"pointclouds, rasters",null
+2,1,1,1,processed,"NCALM - high rainfall, dense vegetation year",2014-00-00,mexico_chichen_Itza\mexico_yaxuna_tstanton_als_2017,"pointclouds, rasters",null
+3,1,1,1,processed,"Does not contain Chichen, but includes surround area, data was collected between April 29 and May 03, 2017 as part of a lidar survey along the Yucatan Peninsula and San Gervasio, Mexico. This data was collected by NCALM for Travis Stanton in the Anthropology Department at University of California Riverside. Approximately 438 km2 of high resolution data were collected for this project.",2017-03-05,mexico_chichen_Itza\mexico_chichen_tstanton_als_2014,"pointclouds, rasters",https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.102019.32616.1  
+4,2,1,2,processed,"Includes elcastillo, with some superstructure, no interior. Gran Juego Pelota, Templos Guerreros, Caracol, Monjas, and El Osario. ",2005-12-11,mexico_chichen_Itza\mexico_cyark_chichen_tls_2005\chichen_multi-site,pointclouds,https://openheritage3d.org/project.php?id=2atk-cq42 
+5,3,1,3,processed,"672 jpg, covering approximately 1.5 km radius around El Castillo ",2018-07-16,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.16\2018.07.16.chichen.all.mapping.sfma,sfm,null
+6,3,1,10,processed,"840 jpg, covering initial series group ",2018-07-13,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.13\2018.07.13.grupo.inicial.survey.sfma,sfm,null
+7,3,1,3,processed,914 jpg images,2018-07-14,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.conjunto.monjas.observatorio.survey.sfma,sfm,null
+8,3,1,3,processed,"74 images of central tourist area, including El Castillo, ballcourt, and Temple of the Warriors ",2018-12-06,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.12\2018.07.12.zona.centrale.survey.sfma,sfm,null
+9,3,1,4,processed,1099 jpg images,2023-10-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_smeacham\aerial_site_scan_to_sacred_cenote,sfm,null
+10,3,2,4,processed,stitched pano and 26 jpg images ,2023-11-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_smeacham\Meacham_Drone Panoramics data\20230211-Mavic2-360s\Castillo Panoramic,360 pano,null
+11,3,2,4,unprocessed,"stitched pano image, and 26 jpg images ",2023-10-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_smeacham\Meacham_Drone Panoramics data\20230210-Mavic2-360s\El Castillo Pano 20 m above roof,360 pano,null
+12,3,2,4,unprocessed,"26 jpg images, 50 meters elevation ",2023-10-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_smeacham\Meacham_Drone Panoramics data\20230210-Mavic2-360s\El Castillo Pano 50m above roof        ,360 pano,null
+13,4,2,5,processed,"2910 images of interior, some low light issues causing blur. ",2023-10-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_drissolo\el_castillo_upper_ext,sfm,null
+14,4,2,3,processed,"1164 images, including jpg and raw. This dataset was aqcuired from ground level from a distance of approximately 10 meters-20meters",2018-12-07,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.12\2018.07.12.castello.sfmg,sfm,null
+15,3,2,3,unprocessed,minute video zooming out from El Castillo towards the grand ballcourt ,2018-12-07,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.12\2018.07.12.castello.mediava,video,null
+16,3,2,6,processed,75 jpg images,2023-06-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\PHOTOS_DRONE_ARLETTE\MASCARON_CASTILLO_06_02_2023,sfm,null
+17,3,2,3,processed,"335 images, orbiting El Castillo from a distance of approximately 10 meters ",2018-12-07,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.12\2018.07.12.castello.orbit.sfma,sfm,null
+18,3,2,"3,",unprocessed,"5 images, morning selfies pointing towards ballcourt ",2018-07-13,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.13\2018.07.13.castello.mediapa,sfm,null
+19,3,2,4,processed,131 jpg images of El Castillo exterior ,2023-10-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_smeacham\el_castillo_exterior,sfm,null
+20,5,3,5,processed,3 laz pointclouds,2023-08-02,null,pointclouds,null
+21,3,4,1,processed,222 jpg images and metashape project. this survey included markers ,2023-06-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\PHOTOS_DRONE_ARLETTE\OBSERVATORIO_6_02_2023,sfm,null
+22,4,4,5,processed,"1278 jpg images of caracol interior, following up the staircase. some issues with blur cause by low light",2023-10-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_drissolo\observatory_interior,sfm,null
+23,3,4,3,processed,826 jpg images,2018-07-16,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.16\2018.07.16.observatorio.mapping.sfma,sfm,null
+24,3,4,3,unprocessed,9 jpg images,2018-07-16,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.16\2018.07.16.observatorio.sfma,sfm,null
+25,4,4,3,processed,"108 images, middle platform and upper building ",2018-07-16,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.16\2018.07.16.observatorio.sfmg,sfm,null
+26,4,4,3,processed,"475 jpg images, lower exterior only ",2018-07-15,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.15\2018.07.15.observatorio.sfmg\part1,sfm,null
+27,4,4,3,processed,"1054 jpg images, exterior only, evening, low light ",2018-07-14,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.observatorio.sfmg,sfm,null
+28,3,4,3,unprocessed,"two videos, 1st zooming out from caracol, moving towards monjas, 2nd video shows only monjas, should reorganize",2018-07-14,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.observatorio.mediava,video,null
+29,3,4,3,processed,474 images,2018-07-14,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.observatorio.orbit.sfma,sfm,null
+30,3,4,3,processed,stitched pano and 26 jpg images ,2023-11-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_smeacham\Meacham_Drone Panoramics data\20230211-Mavic2-360s\Observatory Panoramic,360 pano,null
+31,5,4,5,unprocessed,6 laz pointclouds,2023-06-02,null,pointclouds,null
+32,3,5,4,processed,"stitched pano image, and 26 jpg images ",2023-11-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_smeacham\Meacham_Drone Panoramics data\20230211-Mavic2-360s\Ball Court Panoramic,360 pano,null
+33,5,5,3,process errors ,"2678 jpg images, showing western side of ballcourt ",2018-12-07,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.12\2018.07.12.gran.juego.pelota.west.sfmg,sfm,null
+34,5,5,5,processed,"879 jpg images, this model has associated markers ",2018-12-07,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.12\2018.07.12.gran.juego.pelota.survey.sfma,sfm w/ control points ,null
+35,5,5,5,unprocessed,"1 laz pointclouds, covering north exterior wall ",2023-10-02,null,pointclouds,null
+36,2,6,5,processed,2 laz pointclouds,2023-07-02,null,pointclouds,null
+37,4,7,3,processed,15 scans of ballcourt interior and temple of the jaguar lower ,2018-12-07,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.12\2018.07.12.templo.jaguares.lidar,pointclouds,null
+38,4,7,3,processed,"1535 jpg images, low light ",2018-07-16,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.16\2018.07.16.jaguares.sfmg,sfm,null
+39,4,7,3,processed,"5812 images, including JPG and Raw ",2018-12-07,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.12\2018.07.12.templo.sur.sfmg,sfm,null
+40,4,8,3,processed,2114 images,2018-07-14,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.templo.norte.sfmg,sfm,null
+41,3,9,3,processed,1268 images,2018-12-07,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.12\2018.07.12.templo.sur.sfmg,sfm,null
+42,3,10,6,processed,875 jpg images,2023-10-02,Z:\mexico_chichen_Itza\mexico_chichen_itza_2023\master\PHOTOS_DRONE_ARLETTE\MIL_COLUMNAS_9_02_2023,sfm,null
+43,3,10,3,processed,1706 jpg,2018-07-13,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.13\2018.07.13.mil.columnas.sfma,sfm,null
+44,5,10,3,processed,1260 jpg,2018-07-15,"mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.15\2018.07.15.mil.columnas.sfma""",sfm,null
+45,5,11,5,processed,4 laz pointclouds,2023-06-02,null,pointclouds,null
+46,5,12,5,processed,1 laz pointcloud,2023-06-02,null,pointclouds,null
+47,5,13,5,processed,1 laz pointcloud,2023-10-02,null,pointclouds,null
+48,5,14,5,processed,1 laz pointcloud,2023-10-02,null,pointclouds,null
+49,5,15,5,processed,3 laz pointcloud,2023-11-02,null,pointclouds,null
+50,1,16,5,processed,3 laz pointclouds,2023-11-02,null,pointclouds,null
+51,3,17,1,null,null,null,null,null,null
+52,4,18,4,processed,"274 jpg images, 274 raw, capturing Monjas northern facade ",2023-10-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_smeacham\monjas_facade,sfm,null
+53,3,18,3,processed,290 jpg images,2018-07-16,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.16\2018.07.16.monjas.sfmg,sfm,null
+54,4,18,3,processed,724 jpg images,2018-07-16,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.16\2018.07.16.monjas.sfma,sfm,null
+55,3,18,3,processed,"745 jpg images, of small building north of monjas, northeast of iglesias, need name ",2018-07-15,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.15\2018.07.15.side.monjas.sfmg,sfm,null
+56,3,18,3,processed,6307 jpg images,2018-07-15,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.15\2018.07.15.monjas.sfmg,sfm,null
+57,4,18,3,processed,"447 jpg images, connecting monjas and iglesia ",2018-07-14,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.conjunto.monjas.orbit.sfma,sfm,null
+58,4,19,3,processed,"17 jpg images, exterior only harsh lighting ",2018-07-16,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.16\2018.07.16.iglesia.monjas.sfmg,sfm,null
+59,4,19,3,processed,"648 jpg images, exterior only ",2018-07-15,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.15\2018.07.15.iglesia.sfmg,sfm,null
+60,3,20,3,processed,1386 jpg images,2018-07-14,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.arco.sfma,sfm,null
+61,1,20,3,processed,389 jpg images,2018-07-14,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.arco.sfmg,sfm,null
+62,4,21,3,null,null,null,null,null,null
+63,3,22,3,processed,"2089 jpg images, Galeras Lunas Exterior. why two days? how do models differ? ",2018-07-14,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.galeria.luna.casa.falos.sfmg,sfm,null
+64,4,22,3,processed,"1353 jpg images,covering Galeras Lunas exterior and Casa Falos hy two days? how do models differ? ",2018-07-14,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.galeria.luna.casa.falos.sfma,sfm w/ control points ,null
+65,3,22,3,processed,"5767 jpg images, Galeras Lunas interior and Exterior ",2018-07-13,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.13\2018.07.13.galera.luna.casa.falcos.sfmg,sfm,null
+66,3,22,3,processed,"316 jpg images,covering Galeras Lunas exterior and Casa Falos ",2018-07-13,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.13\2018.07.13.galeria.luna.casa.falcos.sfma,sfm w/ control points ,null
+67,4,23,3,processed,201 jpg images,2018-07-14,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.venus.sfma,sfm,null
+68,1,23,3,processed,1852 jpg images,2018-07-16,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.16\2018.07.16.venus.sfmg,sfm,null
+69,4,21,1,null,null,null,null,null,null
+70,4,24,3,processed,2001 jpg images,2018-07-16,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.16\2018.07.16.mesas.sfmg,sfm,null
+71,3,24,5,processed,"312 jpg images of interior painted columns. thiso nly extends to the western portions of the westernmost columns, as the rest of the interior was still walled off ",2023-10-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_drissolo\grandes_mesa_interior,sfm,null
+72,4,25,4,processed,"stitched pano image, and 26 jpg images ",2023-11-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_smeacham\Meacham_Drone Panoramics data\20230211-Mavic2-360s\Temple of Warriors Panoramic,360 pano,null
+73,3,25,3,processed,"12492 jpg images, paying special attention to carvings on columns ",2018-07-16,"mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.16\2018.07.16.guerreros.sfmg""",sfm,null
+74,4,25,3,processed,"1168 jpg images, covering temple of the warriors and surrounding coulmns, and some of temple grandes mesas",2018-07-15,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.15\2018.07.15.guerreros.grandes.mesas.sfma,sfm,null
+75,5,26,5,processed,"only 20 jpg images, does provide some context for positioning of objects on the wester side ",2023-10-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_drissolo\templo_guerros_interior,sfm,null
+76,3,26,5,processed,1 laz pointcloud,2023-08-02,null,pointclouds,null
+77,4,27,3,processed,180 jpg images,2018-07-16,"mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.16\2018.07.16.tableros.sfma""",sfm,null
+78,4,27,3,processed,1394 jpg images,2018-07-15,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.15\2018.07.15.tableros.sfmg,sfm,null
+79,3,28,3,processed,1599 jpg images,2018-07-14,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.buhos.sfmg,sfm,null
+80,4,28,3,processed,210 jpg images,2018-07-14,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.casa.buhos.sfma,sfm,null
+81,3,28,3,processed,"1430 jpg images, covering aerial footprint and flew low and parralell to capture facade ",2018-07-13,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.13\2018.07.13.casa.buhos.sfmg,sfm,null
+82,3,28,3,processed,83 jpg images,2018-07-13,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.13\2018.07.13.casa.buhos.sfma,sfm,null
+83,4,29,3,processed,110 jpg images,2018-07-16,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.16\2018.07.16.venado.sfma,sfm,null
+84,4,29,3,processed,"431 jpg images, of small two walled (ballcourt?) structure next to venado ",2018-07-15,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.15\2018.07.15.venado.side.sfmg,sfm,null
+85,3,29,3,processed,1597 jpg images,2018-07-15,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.15\2018.07.15.venado.sfmg,sfm,null
+86,5,30,4,processed,1099 jpg images,2023-10-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_smeacham\akab_dzib,sfm,null
+87,4,30,5,processed,1 laz pointcloud,2023-11-02,null,pointclouds,null
+88,3,31,3,processed,174 jpg images,2018-07-14,"mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.tzompantli.sfma""",sfm,null
+89,3,31,3,processed,3119 jpg images,2018-07-14,"mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.tzompantli.sfmg""",sfm,null
+90,3,32,6,processed,112 jpg images,2023-10-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\PHOTOS_DRONE_ARLETTE\CENOTE_SAGRADO_10_02_2023,sfm,null
+91,3,32,4,unprocessed,26 jpg images,2023-10-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_smeacham\Meacham_Drone Panoramics data\20230210-Mavic2-360s\Cenote Sagrado Pano,360 pano,null
+92,4,32,4,processed,stitched pano and 26 jpg images ,2023-11-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_smeacham\Meacham_Drone Panoramics data\20230211-Mavic2-360s\Cenote Sagrado Panoramic,360 pano,null
+93,4,33,5,processed,467 jpg images,2023-10-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_drissolo\frogs_sacred_cenote,sfm,null
+94,5,34,5,processed,"582 jpg images, covering interior and exterior ",2023-10-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\SFM_drissolo\templo_cenote_sagrado,sfm,null
+95,3,34,5,processed,1 laz pointcloud,2023-07-02,null,pointclouds,null
+96,4,35,6,processed,222 jpg images with metashape files ,2023-06-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\PHOTOS_DRONE_ARLETTE\OBSERVATORIO_6_02_2023,sfm,null
+97,5,35,3,processed,1332 jpg images,2018-07-16,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.16\2018.07.16.osario.sfmg,sfm,null
+98,4,35,5,processed,5 laz pointclouds,2023-07-02,null,pointclouds,null
+99,6,36,3,processed,1987 images,2018-07-13,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.13\2018.07.13.casa.yugo.sfmg,sfm,null
+100,4,29,8,processed,"two LAS pointclouds, detailing fulle xterior and foyer, not deepest interior rooms. the 2nd model shows only the glyph panel",2018-11-24,mexico_chichen_Itza\mexico_chichen_itza_2023\master\INAH_contributed\casa_colorada,sfm derivatives,null
+101,3,29,3,null,"two projects, 2048 jpg images ",2018-07-15,null,sfm,null
+102,4,29,3,null,672 jpg images,2018-07-16,null,sfm,null
+103,4,37,3,processed,618 jpg images,2018-07-16,"mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.tortuga.sfmg""",sfm,null
+104,3,38,3,processed,1661 jpg images,2018-07-17,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.aguilas.jaguares.sfma ,sfm,null
+105,3,38,3,processed,153 images,2018-07-18,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.aguilas.jaguares.sfmg,sfm,null
+106,5,39,6,processed,37 jpg images,2023-10-02,mexico_chichen_Itza\mexico_chichen_itza_2023\master\PHOTOS_DRONE_ARLETTE\CENOTE_XTOLOC_10_02_2023,sfm,null
+107,4,40,5,null,1 laz pointcloud,2023-02-01,null,pointclouds,null
+108,3,41,3,processed,487 images,2018-07-13,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.13\2018.07.13.templo.inicial.sfma,sfm,null
+109,4,41,3,processed,2278 jpeg images,2018-07-13,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.13\2018.07.13.templo.inicial.sfmg,sfm,null
+110,3,42,3,processed,1114 jpg images,2018-07-14,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.casa.monos.sfmg,sfm,null
+111,4,42,3,processed,150 images,2018-07-15,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.castello.orbit.sfma,sfm,null
+112,2,42,3,processed,189 jpg images showing chultun adjacent to casa monos,2018-07-16,mexico_chichen_Itza\mexico_chichen_itza_july_2018\master\2018.07.14\2018.07.14.chultun.sfmg,sfm,null
+113,2,43,9,processed,"The provenance and processing pipeline of this dataset is unclear, as such, it is not published publicly",2005-12-11,mexico_chichen_Itza\mexico_cyark_chichen_tls_2005\balankanche,pointclouds,null

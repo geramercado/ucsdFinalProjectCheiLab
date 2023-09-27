@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    outline: none;
+    box-sizing: border-box;
+}
+
+body{
+
+    font-family: 'Open Sans';
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #ffffff;
+}
+
+header{
+    
+    background-color: #e2e2e2;
+}
+
+.header-image{
+    background-image: linear-gradient( rgba(0,0,0, 0.3), rgba(0,0,0, 0.3)), url(pag.png);
+    background-position: 0% 5%;
+    height: 500px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: xx-large;
+} 
+
+nav a {
+    display: inline-block;
+    text-decoration: none;
+    color: #696969;
+    margin: 10px 30px;
+    padding: 5px 15px;
+    border-radius: 30px;
+}
+
+nav a:hover{
+    background-color: rgb(178, 196, 79);
+    color: #fff;
+}
+
+.centerText{
+    display: flex;
+    margin: 45px 1000px;
+    margin-left: 850px;
+    padding: 50px;
+    border-radius: 18px;
+    width: 800px;
+    color: #fff;
+    text-align: center;
+}
+
+.done-text{
+    display: flex;
+    background-color: rgb(178, 196, 79);
+    margin: 55px 1000px;
+    padding: 30px;
+    padding-left: 140px;
+    border-radius: 18px;
+    width: 500px;
+}
+
+.done-text p{
+    text-align: center;
+    color: #fff;
+    font-size: xx-large;
+}

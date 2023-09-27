@@ -1,0 +1,28 @@
+SELECT id_proyect, canonical_name, english_name, alternate_name, object_type, device_type, sensor, date, description, 
+collector_one, collector_two, data_processor, status, archive_link, file_location
+FROM proyects p, devices d, buildings b, autors a 
+WHERE p.id_device = d.id_device AND p.id_building = b.id_building AND p.id_autor = a.id_autor;
+
+
+
+
+
+
+
+"SELECT id_proyect, location_key, status, archive_link, description, date, file_location FROM inventory 
+WHERE id_proyect LIKE '%".$search_criteria."%'  OR location_key LIKE '%".$search_criteria."%' 
+OR description LIKE '%".$search_criteria."%' OR date LIKE '%".$search_criteria."%' ";
+
+
+
+
+
+
+SELECT id_proyect, canonical_name, english_name, alternate_name, object_type, device_type, sensor, date, description, 
+collector_one, collector_two, data_processor, status, archive_link, file_location
+FROM proyects p INNER JOIN devices d 
+ON p.id_device = d.id_device
+INNER JOIN buildings b
+ON p.id_building = b.id_building
+INNER JOIN autors a
+ON p.id_autor = a.id_autor;

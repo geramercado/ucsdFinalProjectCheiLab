@@ -1,0 +1,399 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    outline: none;
+    box-sizing: border-box;
+}
+
+body{
+
+    font-family: 'Open Sans';
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #ffffff;
+}
+
+header{
+    
+    background-color: #e2e2e2;
+}
+
+.header-image{
+    background-image: linear-gradient( rgba(0,0,0, 0.3), rgba(0,0,0, 0.3)), url(pag.png);
+    background-position: 0% 5%;
+    height: 500px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: xx-large;
+} 
+
+nav a {
+    display: inline-block;
+    text-decoration: none;
+    color: #696969;
+    margin: 10px 30px;
+    padding: 5px 15px;
+    border-radius: 30px;
+}
+
+nav a:hover{
+    background-color: rgb(178, 196, 79);
+    color: #fff;
+}
+
+.centerText{
+    display: flex;
+    margin: 45px 1000px;
+    margin-left: 850px;
+    padding: 50px;
+    border-radius: 18px;
+    width: 800px;
+    color: #fff;
+    text-align: center;
+}
+
+
+/*    ---------------      INPUT DATA SEIGN      --------------*/
+
+.canonical-name-container{
+    width: 700px;
+    background: #ffffff;
+    padding: 30px;
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-left: 930px;
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow: .5rem .5rem 1rem #ccc;
+}
+
+/*    ---------------      INPUT canonical      --------------*/
+
+.canonical-name-container input{
+    width: 350px;
+    height: 60px;
+    border-radius: 6px;
+    margin-left: 200px;
+    font-size: 18px;
+    padding: 0 15px;
+    border: 2px solid #646464;
+    background: transparent;
+    color: #424242;
+    outline: none;
+}
+
+.canonical-name-container label{
+    position: absolute;
+    top: 50%;
+    left: 1000px;
+    transform: translateY(-50%);
+    color: #727272;
+    font-size: 19px;
+    pointer-events: none;
+}
+
+
+/*    ---------------      INPUT description-container     --------------*/
+
+.description-container input{
+    width: 350px;
+    height: 60px;
+    border-radius: 6px;
+    margin-left: 200px;
+    font-size: 18px;
+    padding: 0 15px;
+    border: 2px solid #646464;
+    background: transparent;
+    color: #424242;
+    outline: none;
+}
+
+.description-container label{
+    position: absolute;
+    padding-top: 60px;
+    left: 1000px;
+    transform: translateY(-50%);
+    color: #727272;
+    font-size: 19px;
+    pointer-events: none;
+}
+
+/*    ---------------      INPUT autor-container      --------------*/
+
+.autor-container input{
+    width: 350px;
+    height: 60px;
+    border-radius: 6px;
+    margin-left: 200px;
+    font-size: 18px;
+    padding: 0 15px;
+    border: 2px solid #646464;
+    background: transparent;
+    color: #424242;
+    outline: none;
+}
+
+.autor-container label{
+    position: absolute;
+    padding-top: 60px;
+    left: 1090px;
+    transform: translateY(-50%);
+    color: #727272;
+    font-size: 19px;
+    pointer-events: none;
+}
+
+
+/*    ---------------      INPUT archive-container      --------------*/
+
+.archive-container input{
+    width: 350px;
+    height: 60px;
+    border-radius: 6px;
+    margin-left: 200px;
+    font-size: 18px;
+    padding: 0 15px;
+    border: 2px solid #646464;
+    background: transparent;
+    color: #424242;
+    outline: none;
+}
+
+
+.archive-container label {
+    position: absolute;
+    padding-top: 60px;
+    left: 1050px;
+    transform: translateY(-50%);
+    color: #727272;
+    font-size: 19px;
+    pointer-events: none;
+}
+
+
+/*    ---------------      INPUT fileLocation-container     --------------*/
+
+.fileLocation-container input{
+    width: 350px;
+    height: 60px;
+    border-radius: 6px;
+    margin-left: 200px;
+    font-size: 18px;
+    padding: 0 15px;
+    border: 2px solid #646464;
+    background: transparent;
+    color: #424242;
+    outline: none;
+}
+
+.fileLocation-container label{
+
+    position: absolute;
+    padding-top: 60px;
+    left: 970px;
+    transform: translateY(-50%);
+    color: #727272;
+    font-size: 19px;
+    pointer-events: none;
+}
+
+.date-container input{
+    width: 200px;
+    height: 50px;
+    border-radius: 7px;
+    margin-left: 140px;
+    font-size: 18px;
+    padding: 0 15px;
+    border: 2px solid #646464;
+    background: transparent;
+    color: #424242;
+    outline: none;
+}
+
+
+
+
+
+.object-type-container{
+    width: 700px;
+    background: #ffffff;
+    padding: 30px;
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-left: 930px;
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow: .5rem .5rem 1rem #ccc;
+}
+
+.select-box-object{
+    border: none;
+    appearance: none;
+    padding: 0 30px 0 15px;
+    width: 100%;
+    color: #000000;
+    background-color: rgb(221, 219, 219);
+    font-size: large;
+    border-radius: 10px;
+}
+
+
+.device-type{
+    width: 700px;
+    background: #ffffff;
+    padding: 30px;
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-left: 930px;
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow: .5rem .5rem 1rem #ccc;
+}
+
+.select-box-deviceType{
+    border: none;
+    appearance: none;
+    padding: 0 30px 0 15px;
+    width: 100%;
+    color: #000000;
+    background-color: rgb(221, 219, 219);
+    font-size: large;
+    border-radius: 10px;
+}
+
+.description-container{
+    width: 700px;
+    background: #ffffff;
+    padding: 30px;
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-left: 930px;
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow: .5rem .5rem 1rem #ccc;
+}
+
+.autor-container {
+    width: 700px;
+    background: #ffffff;
+    padding: 30px;
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-left: 930px;
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow: .5rem .5rem 1rem #ccc;
+}
+
+.status-container{
+    width: 700px;
+    background: #ffffff;
+    padding: 30px;
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-left: 930px;
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow: .5rem .5rem 1rem #ccc;
+}
+
+.select-box-status{
+    border: none;
+    appearance: none;
+    padding: 0 30px 0 15px;
+    width: 100%;
+    color: #000000;
+    background-color: rgb(221, 219, 219);
+    font-size: large;
+    border-radius: 10px;
+}
+
+.archive-container{
+    width: 700px;
+    background: #ffffff;
+    padding: 30px;
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-left: 930px;
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow: .5rem .5rem 1rem #ccc;
+}
+
+.fileLocation-container{
+    width: 700px;
+    background: #ffffff;
+    padding: 30px;
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-left: 930px;
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow: .5rem .5rem 1rem #ccc;
+}
+
+.date-container{
+    width: 500px;
+    background: #ffffff;
+    padding: 30px;
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-left: 1030px;
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow: .5rem .5rem 1rem #ccc;
+}
+
+
+/*    ---------------      BOTOM      --------------*/
+
+
+.button {
+    background-color: #fffefe;
+    margin-left: 48%;
+    margin-right: 50%;
+    margin-top: 20px;
+    padding-top: 2%;
+    margin-bottom: 50px;
+}
+
+
+.button button {
+    font-weight: 'Open Sans';
+    color: #707070;
+    font-size: 1rem;
+    padding: 1rem 1.5rem;
+    border: 2px solid #ffffff;
+    border-radius: .5rem;
+    cursor: pointer;
+    box-shadow: .5rem .5rem 1rem #ccc, -.5rem -.5rem 1rem #fff;
+    background-color: #fff;
+}
+
+
+.button button:hover{
+    box-shadow: .2rem .2rem 1rem #ffffff;
+}
+
+.button button:active{
+    box-shadow: .2rem .2rem 1rem #cecece;
+}
+

@@ -1,0 +1,49 @@
+CREATE TABLE devices (
+
+	id_device INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	device_type VARCHAR (150),
+	device_model VARCHAR (150)
+);
+
+
+
+CREATE TABLE buildings (
+
+	id_building INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	canonical_name VARCHAR (150),
+	english_name VARCHAR (150),
+	alternate_name VARCHAR (150),
+	building_description VARCHAR (400),
+	latitude VARCHAR (50),
+	longitude VARCHAR (50),
+	id_inah_building INT,
+	inah_building_group VARCHAR (100)
+);
+
+
+
+CREATE TABLE autors (
+
+	id_autor INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	name VARCHAR (150),
+	afiliation VARCHAR (150)
+);
+
+
+
+CREATE TABLE datasets (
+
+	id_dataset INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	id_device INT,
+	id_building INT,
+	id_autor INT,
+	data_status VARCHAR (50),
+	data_description VARCHAR (50),
+	date_capture DATE,
+	file_location VARCHAR (300),
+	object_type VARCHAR (150),
+	archive_link VARCHAR (400),
+	FOREIGN KEY (id_device) REFERENCES devices(id_device),
+	FOREIGN KEY (id_building) REFERENCES buildings(id_building),	
+	FOREIGN KEY (id_autor) REFERENCES autors(id_autor) 
+);

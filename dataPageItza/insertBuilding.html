@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Insert buildings data</title>
+        <link rel="stylesheet" href="insertStyle.css">
+    </head>
+
+        <body>
+
+            <header>
+                <nav>
+                    <a href="inventory.html">Inventory</a>
+                    <a href="">InsertData</a>
+                </nav>
+            </header>
+
+            <div class="header-image">
+                <h1>Insert data</h1>
+            </div>
+
+
+
+                <form action="insert.php" method="post" id="form">                   <!--    -->
+
+
+                     <div class="canonical-name-container">
+                        <input type="text" name="canonical_name" id="canonical_name">
+                        <label for="canonical_name">canonicalName</label>
+                    </div>
+
+                    <div class="object-type-container">
+                        <select class="select-box-object" name="object" id="obj">
+                            <option selected disabled>choose objectType</option>
+                            <option value="pointclouds,rasters">pointclouds,rasters</option>
+                            <option value="pointclouds">pointclouds</option>
+                            <option value="sfm">sfm</option>
+                            <option value="360 pano">360 pano</option>
+                            <option value="video">video</option>
+                            <option value="sfm w/ control points">sfm w/ control points</option>
+                        </select>
+                    </div>    
+        
+                    <div class="device-type">
+                        <select class="select-box-deviceType" name="device" id="dev">
+                            <option selected disabled>choose deviceType</option>
+                            <option value="1">aerial LiDAR</option>
+                            <option value="2">terrestrial LiDAR</option>
+                            <option value="3">drone</option>
+                            <option value="4">dslr camera</option>
+                            <option value="5">mobile LiDAR</option>
+                            <option value="6">drone + dslr</option>
+                        </select>
+                    </div> 
+        
+                    <div class="date-container">
+                        <input type="date" name="date" id="date">
+                    </div>
+        
+                    <div class="description-container">
+                            <input type="text" name="data_description" id="data">
+                            <label for="data_description">dataDescription</label>
+                    </div>
+        
+                    <div class="autor-container">
+                        <input type="text" name="autor" id="aut">
+                        <label for="autor">autor</label>
+                    </div>
+                    
+                    <div class="status-container">
+                        <select class="select-box-status" name="stat" id="st">
+                            <option selected disabled>choose status</option>
+                            <option value="processed">processed</option>
+                            <option value="unprocessed">unprocessed</option>
+                        </select>
+                    </div>
+        
+                    <div class="archive-container">
+                        <input type="text" name="archive_link" id="archive">
+                        <label for="archive">archiveLink</label>
+                    </div>
+        
+                    <div class="fileLocation-container">
+                        <input type="text" name="file_location" id="file">
+                        <label for="fileLocation">CHEIfileLocation</label>
+                    </div>
+        
+        
+                    <div class="button">
+                        <button type="submit">Save</button>
+                    </div>
+
+                  
+
+                </form>
+
+              <script src="emptyBox.js"></script> 
+
+        </body>
+
+</html>
